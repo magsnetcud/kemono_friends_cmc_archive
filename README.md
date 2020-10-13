@@ -12,7 +12,7 @@ __For inquiries about the game, please contact the creator ([SakamotoRyuu](https
 ### Basic information
 The following environment is required to operate this software.
 
- * OS: __Windows 7 64-bit__
+ * OS: __Windows 7,8,10 64-bit__
  * CPU: __Reasonably fast CPU__
  * HDD: __2GB or more free disc space__
  * RAM: __4GB or more memory__
@@ -45,13 +45,21 @@ Tested with a 60fps display
 This game is a 3D action game using [Unity](https://unity3d.com/). 
 Some graphics performance is required, but low performance graphics boards will work if you don't need a high frame rate.
 
-
-
-
-
+ Downloads
+----------
 
 Below are links to past versions. Please download from that link.
 
 Download server: MEGA (mega.nz)
 
-The link is in preparation...
+### Kemono Friends Cellien May Cry ver0.93f3
+    Download      >>> https://mega.nz/folder/hw52HAxI
+    Decryption key>>> xsbiYbW56N0nn5EE2zoAiQ
+
+### Kemono Friends Cellien May Cry ver0.94
+    Download      >>> https://mega.nz/folder/VkQ0VRYC
+    Decryption key>>> x2TS18vl_9T95w13hcTa5Q
+
+### Kemono Friends Cellien May Cry ver0.95
+    Download      >>> https://mega.nz/folder/4gwkGBoC
+    Decryption key>>> b2FchGKeqw9ImMaS1ng4dA
