@@ -53,3 +53,5 @@ Some graphics performance is required, but low performance graphics boards will 
 Below are links to past versions. Please download from that link.
 
 Download server: MEGA (mega.nz)
+
+The link is in preparation.
