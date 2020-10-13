@@ -11,12 +11,12 @@ __For inquiries about the game, please contact the creator ([SakamotoRyuu](https
 
 __The following environment is required to operate this software.__
 
- * OS: Windows 7 64-bit
- * CPU: Reasonably fast CPU
- * HDD: 2GB or more free space
- * RAM: 4GB or more
- * Graphic: NVIDIA GeForce GT730 or higher
- * External software to run the game
+ * OS: __Windows 7 64-bit__
+ * CPU: __Reasonably fast CPU__
+ * HDD: __2GB or more free disc space__
+ * RAM: __4GB or more memory__
+ * Graphic: __NVIDIA GeForce GT730 or higher__
+ * __External software to run the game__
     - [Microsoft Visual C++ 2017 Redistributable Packages](https://visualstudio.microsoft.com/vs/older-downloads/)
     - [Microsoft DirectX 11](https://www.microsoft.com/en-us/download/details.aspx?id=35)
     - Latest graphics driver ([NVIDIA](https://www.nvidia.com/Download/index.aspx) or [AMD](https://www.amd.com/support))
