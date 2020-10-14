@@ -81,3 +81,8 @@ Download server: MEGA (mega.nz)
     Download      >>> https://mega.nz/file/Agx0lZzK
     Decryption key>>> 2BtDhs4N62ewZfhUb10VUwpKroFxAZE9luSdr5TuH7Q
 [Download ver0.95f4](https://mega.nz/file/Agx0lZzK)
+
+### Kemono Friends Cellien May Cry ver0.97f1 (ZIP)
+    Download      >>> https://mega.nz/file/V0QBEYya
+    Decryption key>>> vuti5tAZVtjM27BXWT7XnsRpQH0VlzALw3zXqFimmp4
+[Download ver0.97f1](https://mega.nz/file/V0QBEYya)
