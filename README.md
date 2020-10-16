@@ -106,3 +106,23 @@ Download server: MEGA (mega.nz)
     Download      >>> https://mega.nz/file/ISJEQLJZ
     Decryption key>>> cbnXx5m-2ffcbOylp_aFDqieIdyHnXXW53AG5CKCuDc
 [Download ver0.98](https://mega.nz/file/ISJEQLJZ)
+
+### Kemono Friends Cellien May Cry ver0.98f1 (ZIP)
+    Download      >>> https://mega.nz/file/ZawEUZKI
+    Decryption key>>> yJcJhcmLJ-pS2q5fa4Hyomfm95C5F-vm8U7jPfRnRZY
+[Download ver0.98f1](https://mega.nz/file/ZawEUZKI)
+
+### Kemono Friends Cellien May Cry ver0.98f2 (ZIP)
+    Download      >>> https://mega.nz/file/tWgixbwJ
+    Decryption key>>> cC0nTWTL3s4ja78seFUdWSsnKh6EG2ysN6GpNJN5rps
+[Download ver0.98f2](https://mega.nz/file/tWgixbwJ)
+
+### Kemono Friends Cellien May Cry ver0.98f3 (ZIP)
+    Download      >>> https://mega.nz/file/lPwUDZ4K
+    Decryption key>>> PxEIrzST_GXkECftfuR2FNad2eLpIbpDymKNhjw9cEU
+[Download ver0.98f3](https://mega.nz/file/lPwUDZ4K)
+
+### Kemono Friends Cellien May Cry ver0.98f3test (ZIP)
+    Download      >>> https://mega.nz/file/Fa5SwLJD
+    Decryption key>>> p4kTGYslsuhzV1TwuQ-0mnhjB4-nKewvjEiLBcKD4-c
+[Download ver0.98f3test](https://mega.nz/file/Fa5SwLJD)
