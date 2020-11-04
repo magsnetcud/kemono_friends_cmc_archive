@@ -50,7 +50,7 @@ Some graphics performance is required, but low performance graphics boards will 
 
 Index of Downloads section.
 
-__[Kemono Friends Cellien May Cry ver0.93f3](https://github.com/magsnetcud/kemono_friends_cmc_archive#kemono-friends-cellien-may-cry-ver093f3)__
+__[Kemono Friends Cellien May Cry ver0.93f3](#kemono-friends-cellien-may-cry-ver093f3)__
 
 __[Kemono Friends Cellien May Cry ver0.94](https://github.com/magsnetcud/kemono_friends_cmc_archive#kemono-friends-cellien-may-cry-ver094)__
 
