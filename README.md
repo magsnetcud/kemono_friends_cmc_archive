@@ -52,16 +52,97 @@ Index of Downloads section.
 
 __[Kemono Friends Cellien May Cry ver0.93f3](#kemono-friends-cellien-may-cry-ver093f3)__
 
-__[Kemono Friends Cellien May Cry ver0.94](https://github.com/magsnetcud/kemono_friends_cmc_archive#kemono-friends-cellien-may-cry-ver094)__
+__[Kemono Friends Cellien May Cry ver0.94](#kemono-friends-cellien-may-cry-ver094)__
 
-__[Kemono Friends Cellien May Cry ver0.95](https://github.com/magsnetcud/kemono_friends_cmc_archive#kemono-friends-cellien-may-cry-ver095)__
+__[Kemono Friends Cellien May Cry ver0.95](#kemono-friends-cellien-may-cry-ver095)__
 
-__[Kemono Friends Cellien May Cry ver0.95f1](https://github.com/magsnetcud/kemono_friends_cmc_archive#kemono-friends-cellien-may-cry-ver095f1)__
+__[Kemono Friends Cellien May Cry ver0.95f1](#kemono-friends-cellien-may-cry-ver095f1)__
 
-__[Kemono Friends Cellien May Cry ver0.95f2](https://github.com/magsnetcud/kemono_friends_cmc_archive#kemono-friends-cellien-may-cry-ver095f2)__
+__[Kemono Friends Cellien May Cry ver0.95f2](#kemono-friends-cellien-may-cry-ver095f2)__
 
-__[Kemono Friends Cellien May Cry ver0.95f4 (ZIP)](https://github.com/magsnetcud/kemono_friends_cmc_archive#kemono-friends-cellien-may-cry-ver095f4-zip)__
+__[Kemono Friends Cellien May Cry ver0.95f4 (ZIP)](#kemono-friends-cellien-may-cry-ver095f4-zip)__
 
+__[Kemono Friends Cellien May Cry ver0.96 (ZIP)](#kemono-friends-cellien-may-cry-ver096-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.96f2 (ZIP)](#kemono-friends-cellien-may-cry-ver096f2-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.97 (ZIP)](#kemono-friends-cellien-may-cry-ver097-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.97f1 (ZIP)](#kemono-friends-cellien-may-cry-ver097f1-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.98 (ZIP)](#kemono-friends-cellien-may-cry-ver098-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.98f1 (ZIP)](#kemono-friends-cellien-may-cry-ver098f1-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.98f2 (ZIP)](#kemono-friends-cellien-may-cry-ver098f2-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.98f3 (ZIP)](#kemono-friends-cellien-may-cry-ver098f3-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.98f3test (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver098f3test-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.98f3test2 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver098f3test2-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.98f3test3 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver098f3test3-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.98f3test4 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver098f3test4-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.98f3test5 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver098f3test5-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.98f3test6 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver098f3test6-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.98f3test7 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver098f3test7-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99 (ZIP)](#kemono-friends-cellien-may-cry-ver099-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f1 (ZIP)](#kemono-friends-cellien-may-cry-ver099f1-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f2 (ZIP)](#kemono-friends-cellien-may-cry-ver099f2-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f3 (ZIP)](#kemono-friends-cellien-may-cry-ver099f3-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f4 (ZIP)](#kemono-friends-cellien-may-cry-ver099f4-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f5 (ZIP)](#kemono-friends-cellien-may-cry-ver099f5-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f5test (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f5test-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f5test2 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f5test2-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f5test3 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f5test3-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f6 (ZIP)](#kemono-friends-cellien-may-cry-ver099f6-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f6test (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f6test-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f6test2 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f6test2-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f7 (ZIP)](#kemono-friends-cellien-may-cry-ver099f7-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f8 (ZIP)](#kemono-friends-cellien-may-cry-ver099f8-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f9 (ZIP)](#kemono-friends-cellien-may-cry-ver099f9-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f10 (Pre-released) (ZIP)](#kemono-friends-cellien-may-cry-ver099f10-pre-released-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f10 (ZIP)](#kemono-friends-cellien-may-cry-ver099f10-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f11 (ZIP)](#kemono-friends-cellien-may-cry-ver099f11-zip)__
+
+__[Kemono Friends Cellien May Cry ver0.99f11test (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f11test-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f11test2 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f11test2-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f11test3 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f11test3-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f11test4 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f11test4-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f11test5 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f11test5-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f11test6 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f11test6-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry ver0.99f11test7 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-ver099f11test7-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry Version 0.99.12 (ZIP)](#kemono-friends-cellien-may-cry-version-09912-zip)__
 
  Downloads
 ----------
