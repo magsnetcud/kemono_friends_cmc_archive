@@ -153,6 +153,8 @@ __[Kemono Friends Cellien May Cry ver0.99f11test7 (EXE 7z self-extract)](#kemono
 
 __[Kemono Friends Cellien May Cry Version 0.99.12 (ZIP)](#kemono-friends-cellien-may-cry-version-09912-zip)__
 
+__[Kemono Friends Cellien May Cry Version 0.99.13 (ZIP)](#kemono-friends-cellien-may-cry-version-09913-zip)__
+
  Downloads
 ----------
 
