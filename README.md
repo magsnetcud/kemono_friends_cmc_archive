@@ -12,11 +12,11 @@ __For inquiries about the game, please contact the creator ([SakamotoRyuu](https
 ### Basic information
 The following environment is required to operate this software.
 
- * OS: __Windows 7,8,10 64-bit__
- * CPU: __Reasonably fast CPU__
+ * OS: __Windows 7,8,8.1,10 64-bit or 32-Bit__ (32-bit version is suspended for update)
+ * CPU: __Reasonably fast CPU__ (I am using Intel Xeon E3-1220)
  * HDD: __2GB or more free disc space__
- * RAM: __4GB or more memory__
- * Graphic: __NVIDIA GeForce GT730 or higher__
+ * RAM: __4GB or more memory__ (I am using 12GB DDR3-1200 RAM)
+ * Graphic: __NVIDIA GeForce GT730 or higher__ (I am using GTX1050Ti)
  * __External software to run the game__
     - [Microsoft Visual C++ 2017 Redistributable Packages](https://visualstudio.microsoft.com/vs/older-downloads/)
     - [Microsoft DirectX 11](https://www.microsoft.com/en-us/download/details.aspx?id=35)
