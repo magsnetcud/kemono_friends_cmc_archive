@@ -50,9 +50,10 @@ Some graphics performance is required, but low performance graphics boards will 
 
 This is the latest version of the link that has been published on Twitter([@SakamotoRyuu](https://twitter.com/SakamotoRyuu)) and is being updated.
  
- * __Kemono Friends Cellien May Cry Version 0.99.14__
+ * __Kemono Friends Cellien May Cry Version 0.99.15__
     - [Windows 64-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1T1SQ6Xj-eTsIWXcCqMXFdlG1Kj9_aHbX/view)
     - [Windows 64-Bit (ZIP)](https://drive.google.com/file/d/1BnxnHsWHIH7DhMFHVbVbJ9iWGz3wSwa9/view)
+    - [Update history (Japanese-language)](https://drive.google.com/file/d/1CJKBbEhNnORoolGUYehprFAWNYIpUiHu/view)
  * __Kemono Friends Cellien May Cry ver0.99__
     - [Windows 32-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1cQbCAPnokE_MtEpEOkqkj6j2wYPo4CNu/view) A 32-bit version is also available, but update has been suspended in ver0.99.
 
@@ -160,6 +161,8 @@ __[Kemono Friends Cellien May Cry Version 0.99.13 (ZIP)](#kemono-friends-cellien
 __[Kemono Friends Cellien May Cry Version 0.99.14 (ZIP)](#kemono-friends-cellien-may-cry-version-09914-zip)__
 
 __[Kemono Friends Cellien May Cry Version 0.99.14test1 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-version-09914test1-exe-7z-self-extract)__
+
+__[Kemono Friends Cellien May Cry Version 0.99.15 (ZIP)](#kemono-friends-cellien-may-cry-version-09915-zip)__
 
  Downloads
 ----------
@@ -421,6 +424,11 @@ Download server: MEGA (mega.nz)
     Download      >>> https://mega.nz/file/VQdH1ChS
     Decryption key>>> 9XQtDwkFmN8vVf9gKUI-MXopxZnpWH5xqUlcPIOvyHo
 [Download Version 0.99.14test1](https://mega.nz/file/VQdH1ChS)
+
+### Kemono Friends Cellien May Cry Version 0.99.15 (ZIP)
+    Download      >>> https://mega.nz/file/w9dxTCoB
+    Decryption key>>> IkcENIJn2cAghw218ZTN1vlTglSBZDjIbzTP69hIAZ8
+[Download Version 0.99.15](https://mega.nz/file/w9dxTCoB)
 
 ----------
 (C) 2018-2020 @SakamotoRyuu
