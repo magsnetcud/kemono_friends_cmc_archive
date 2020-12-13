@@ -1,7 +1,7 @@
 # Kemono Friends Cellien May Cry Archive
 This is "Kemono Friends Cellien May Cry" old version archive.
 
-__No game console files have been uploaded to this repository.__
+__The game executable is not uploaded to GitHub and is in a format that can be downloaded from an external file host.__
 
 
 __For inquiries about the game, please contact the creator ([SakamotoRyuu](https://twitter.com/SakamotoRyuu) on Twitter) directly.__
@@ -163,6 +163,8 @@ __[Kemono Friends Cellien May Cry Version 0.99.14 (ZIP)](#kemono-friends-cellien
 __[Kemono Friends Cellien May Cry Version 0.99.14test1 (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-version-09914test1-exe-7z-self-extract)__
 
 __[Kemono Friends Cellien May Cry Version 0.99.15 (ZIP)](#kemono-friends-cellien-may-cry-version-09915-zip)__
+
+__[Kemono Friends Cellien May Cry Version 0.99.16 (ZIP)](#kemono-friends-cellien-may-cry-version-09916-zip)__
 
  Downloads
 ----------
@@ -429,6 +431,11 @@ Download server: MEGA (mega.nz)
     Download      >>> https://mega.nz/file/w9dxTCoB
     Decryption key>>> IkcENIJn2cAghw218ZTN1vlTglSBZDjIbzTP69hIAZ8
 [Download Version 0.99.15](https://mega.nz/file/w9dxTCoB)
+
+### Kemono Friends Cellien May Cry Version 0.99.16 (ZIP)
+    Download      >>> https://mega.nz/file/YgExnQIR
+    Decryption key>>> OcSzzG4oT683cfbeZLUAHLVhQ3iVK5JOG_OCJErulEg
+[Download Version 0.99.16](https://mega.nz/file/YgExnQIR)
 
 ----------
 (C) 2018-2020 @SakamotoRyuu
