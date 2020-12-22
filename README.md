@@ -12,7 +12,7 @@ __For inquiries about the game, please contact the creator ([SakamotoRyuu](https
 ### Basic information
 The following environment is required to operate this software.
 
- * OS: __Windows 7,8,8.1,10 64-bit or 32-Bit__ (32-bit version is suspended for update)
+ * OS: __Windows 7,8,8.1,10 64-bit or 32-Bit__ (32-bit version is suspended for efficient updates)
  * CPU: __Reasonably fast CPU__ (I am using Intel Xeon E3-1220)
  * HDD: __2GB or more free disc space__
  * RAM: __4GB or more memory__ (I am using 12GB DDR3-1200 RAM)
