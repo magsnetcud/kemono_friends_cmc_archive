@@ -164,6 +164,8 @@ __[Kemono Friends Cellien May Cry Version 0.99.14test1 (EXE 7z self-extract)](#k
 
 __[Kemono Friends Cellien May Cry Version 0.99.15 (ZIP)](#kemono-friends-cellien-may-cry-version-09915-zip)__
 
+__[Kemono Friends Cellien May Cry Version 0.99.16 (Pre-released) (ZIP)](#kemono-friends-cellien-may-cry-version-09916-pre-released-zip)__
+
 __[Kemono Friends Cellien May Cry Version 0.99.16 (ZIP)](#kemono-friends-cellien-may-cry-version-09916-zip)__
 
  Downloads
@@ -432,10 +434,21 @@ Download server: MEGA (mega.nz)
     Decryption key>>> IkcENIJn2cAghw218ZTN1vlTglSBZDjIbzTP69hIAZ8
 [Download Version 0.99.15](https://mega.nz/file/w9dxTCoB)
 
-### Kemono Friends Cellien May Cry Version 0.99.16 (ZIP)
+### Kemono Friends Cellien May Cry Version 0.99.16 (Pre-released) (ZIP)
     Download      >>> https://mega.nz/file/YgExnQIR
     Decryption key>>> OcSzzG4oT683cfbeZLUAHLVhQ3iVK5JOG_OCJErulEg
-[Download Version 0.99.16](https://mega.nz/file/YgExnQIR)
+    
+    ---This version is pre-released version.---
+    ---Immediately after this version was uploaded, a mistake by the creator was discovered.---
+    ---The corrected version was re-uploaded with the same version number.---
+    ---This version is the file before it was re-uploaded.---
+    ---The only difference from the re-uploaded version is the addition of a Chinese translator to the ReadMe file.---
+[Download Version 0.99.16 pre-released](https://mega.nz/file/YgExnQIR)
+
+### Kemono Friends Cellien May Cry Version 0.99.16 (ZIP)
+    Download      >>> https://mega.nz/file/xkESyLDJ
+    Decryption key>>> SITtwwezjPctgG4S1rLrmO6rSXwu5NYfyStn7QrLb6c
+[Download Version 0.99.15](https://mega.nz/file/xkESyLDJ)
 
 ----------
 (C) 2018-2020 @SakamotoRyuu
