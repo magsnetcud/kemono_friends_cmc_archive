@@ -168,7 +168,7 @@ __[Kemono Friends Cellien May Cry Version 0.99.16 (Pre-released) (ZIP)](#kemono-
 
 __[Kemono Friends Cellien May Cry Version 0.99.16 (ZIP)](#kemono-friends-cellien-may-cry-version-09916-zip)__
 
-__[Kemono Friends Cellien May Cry Version 0.99.17 (Pre-released) (ZIP)](#kemono-friends-cellien-may-cry-version-09917-pre-released-zip)__
+__[Kemono Friends Cellien May Cry Version 0.99.17 (Pre-released) (EXE 7z self-extract)](#kemono-friends-cellien-may-cry-version-09917-pre-released-exe-7z-self-extract)__
 
 __[Kemono Friends Cellien May Cry Version 0.99.17 (ZIP)](#kemono-friends-cellien-may-cry-version-09917-zip)__
 
