@@ -45,12 +45,12 @@ Tested with a 60fps display
 This game is a 3D action game using [Unity](https://unity3d.com/). 
 Some graphics performance is required, but low performance graphics boards will work if you don't need a high frame rate.
 
- Latest newest version download
+ Latest newest version download (from official)
 ----------
 
 This is the latest version of the link that has been published on Twitter([@SakamotoRyuu](https://twitter.com/SakamotoRyuu)) and is being updated.
  
- * __Kemono Friends Cellien May Cry Version 0.99.17__
+ * __Kemono Friends Cellien May Cry Version 0.99.18__
     - [Windows 64-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1T1SQ6Xj-eTsIWXcCqMXFdlG1Kj9_aHbX/view)
     - [Windows 64-Bit (ZIP)](https://drive.google.com/file/d/1BnxnHsWHIH7DhMFHVbVbJ9iWGz3wSwa9/view)
     - [Update history (Japanese-language)](https://drive.google.com/file/d/1CJKBbEhNnORoolGUYehprFAWNYIpUiHu/view)
