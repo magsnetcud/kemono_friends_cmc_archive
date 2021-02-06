@@ -12,16 +12,20 @@ __For inquiries about the game, please contact the creator ([SakamotoRyuu](https
 ### Basic information
 The following environment is required to operate this software.
 
- * OS: __Windows 7,8,8.1,10 64-bit or 32-Bit__ (32-bit version is suspended for efficient updates)
- * CPU: __Reasonably fast CPU__ (I am using Intel Xeon E3-1220)
+ * OS: __Windows 10,8.1,8,7 64-bit or 32-Bit__ (32-bit version is suspended for efficient updates)
+ * CPU: __Reasonably fast CPU__ (I am using Intel Xeon E5-1620 v2)
  * HDD: __2GB or more free disc space__
  * RAM: __4GB or more memory__ (I am using 12GB DDR3-1200 RAM)
- * Graphic: __NVIDIA GeForce GT730 or higher__ (I am using GTX1050Ti)
+ * Graphic (dGPU): __NVIDIA GeForce GT730 or higher__ (I am using GTX1650Ti)
+ * Graphic (iGPU): __Intel HD Graphics 2000 or higher__ 
  * __External software to run the game__
     - [Microsoft Visual C++ 2017 Redistributable Packages](https://visualstudio.microsoft.com/vs/older-downloads/)
     - [Microsoft DirectX 11](https://www.microsoft.com/en-us/download/details.aspx?id=35)
-    - Latest graphics driver ([NVIDIA](https://www.nvidia.com/Download/index.aspx) or [AMD](https://www.amd.com/support))
-   
+    - Latest graphics driver ([NVIDIA](https://www.nvidia.com/Download/index.aspx)  [AMD](https://www.amd.com/support))
+
+__This game can be run on either dGPU__ (non-integrated GPU such as GeForce or Radeon) __or iGPU__ (GPU integrated in CPU).
+To achieve both high image quality and high frame rate, you need to use a higher performance dGPU.
+
 For other detailed information and operation method, refer to the ReadMe(English).txt included with the game.
 
 ### Graphics board information
