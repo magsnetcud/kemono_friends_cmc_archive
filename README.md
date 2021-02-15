@@ -54,7 +54,7 @@ Some graphics performance is required, but low performance graphics boards will 
 
 This is the latest version of the link that has been published on Twitter([@SakamotoRyuu](https://twitter.com/SakamotoRyuu)) and is being updated.
  
- * __Kemono Friends Cellien May Cry Version 0.99.19__
+ * __Kemono Friends Cellien May Cry Version 0.99.20__
     - [Windows 64-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1T1SQ6Xj-eTsIWXcCqMXFdlG1Kj9_aHbX/view)
     - [Windows 64-Bit (ZIP)](https://drive.google.com/file/d/1BnxnHsWHIH7DhMFHVbVbJ9iWGz3wSwa9/view)
     - [Update history (Japanese-language)](https://drive.google.com/file/d/1CJKBbEhNnORoolGUYehprFAWNYIpUiHu/view)
@@ -179,6 +179,8 @@ __[Kemono Friends Cellien May Cry Version 0.99.17 (ZIP)](#kemono-friends-cellien
 __[Kemono Friends Cellien May Cry Version 0.99.18 (ZIP)](#kemono-friends-cellien-may-cry-version-09918-zip)__
 
 __[Kemono Friends Cellien May Cry Version 0.99.19 (ZIP)](#kemono-friends-cellien-may-cry-version-09919-zip)__
+
+__[Kemono Friends Cellien May Cry Version 0.99.20 (ZIP)](#kemono-friends-cellien-may-cry-version-09920-zip)__
 
  Downloads
 ----------
@@ -483,6 +485,13 @@ Download server: MEGA (mega.nz)
     Download      >>> https://drive.google.com/file/d/1aTzCjWo5djYVl2tMmIG8DZ0J884LsAPZ/view?usp=sharing
     Decryption key>>> 
 [Download Version 0.99.19](https://drive.google.com/file/d/1aTzCjWo5djYVl2tMmIG8DZ0J884LsAPZ/view?usp=sharing)
+
+### Kemono Friends Cellien May Cry Version 0.99.20 (ZIP)
+    --- This is temporary file. (File-hoster:Google Drive) ---
+    --- This file has been uploaded temporarily and the file host will be automatically changed to MEGA soon. ---
+    Download      >>> https://drive.google.com/file/d/1uvJPEptw8QZaPHhhaHmM2yry28OVGpuJ/view?usp=sharing
+    Decryption key>>> 
+[Download Version 0.99.20](https://drive.google.com/file/d/1uvJPEptw8QZaPHhhaHmM2yry28OVGpuJ/view?usp=sharing)
 
 ----------
 (C) 2018-2020 @SakamotoRyuu
