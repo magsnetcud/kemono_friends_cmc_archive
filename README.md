@@ -480,11 +480,9 @@ Download server: MEGA (mega.nz)
 [Download Version 0.99.18](https://mega.nz/file/JwkBSYIZ)
 
 ### Kemono Friends Cellien May Cry Version 0.99.19 (ZIP)
-    --- This is temporary file. (File-hoster:Google Drive) ---
-    --- This file has been uploaded temporarily and the file host will be automatically changed to MEGA soon. ---
-    Download      >>> https://drive.google.com/file/d/1aTzCjWo5djYVl2tMmIG8DZ0J884LsAPZ/view?usp=sharing
-    Decryption key>>> 
-[Download Version 0.99.19](https://drive.google.com/file/d/1aTzCjWo5djYVl2tMmIG8DZ0J884LsAPZ/view?usp=sharing)
+    Download      >>> https://mega.nz/file/U1ETmKwI
+    Decryption key>>> 4DZq1r_L3p1iTblI_2zdIJ2xd5PXKrnPEQn5P4C7s-U
+[Download Version 0.99.19](https://mega.nz/file/U1ETmKwI)
 
 ### Kemono Friends Cellien May Cry Version 0.99.20 (ZIP)
     --- This is temporary file. (File-hoster:Google Drive) ---
