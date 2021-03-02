@@ -500,7 +500,7 @@ Download server: MEGA (mega.nz)
     --- This file has been uploaded temporarily and the file host will be automatically changed to MEGA soon. ---
     Download      >>> https://drive.google.com/file/d/1cSlUoitjQbpnYlr0CnvdQi-WUwlNODep/view?usp=sharing
     Decryption key>>> 
-[Download Version 0.99.20](https://drive.google.com/file/d/1cSlUoitjQbpnYlr0CnvdQi-WUwlNODep/view?usp=sharing)
+[Download Version 1.00.01](https://drive.google.com/file/d/1cSlUoitjQbpnYlr0CnvdQi-WUwlNODep/view?usp=sharing)
 
 ----------
 (C) 2018-2020 @SakamotoRyuu
