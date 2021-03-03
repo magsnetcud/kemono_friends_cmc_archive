@@ -186,6 +186,8 @@ __[Kemono Friends Cellien May Cry Version 0.99.20 (ZIP)](#kemono-friends-cellien
 
 __[Kemono Friends Cellien May Cry Version 1.00.01 (ZIP)](#kemono-friends-cellien-may-cry-version-10001-zip)__
 
+__[Kemono Friends Cellien May Cry Version 1.00.02 (ZIP)](#kemono-friends-cellien-may-cry-version-10002-zip)__
+
  Downloads
 ----------
 
@@ -496,11 +498,14 @@ Download server: MEGA (mega.nz)
 [Download Version 0.99.20](https://drive.google.com/file/d/1uvJPEptw8QZaPHhhaHmM2yry28OVGpuJ/view?usp=sharing)
 
 ### Kemono Friends Cellien May Cry Version 1.00.01 (ZIP)
-    --- This is temporary file. (File-hoster:Google Drive) ---
-    --- This file has been uploaded temporarily and the file host will be automatically changed to MEGA soon. ---
-    Download      >>> https://drive.google.com/file/d/1cSlUoitjQbpnYlr0CnvdQi-WUwlNODep/view?usp=sharing
-    Decryption key>>> 
-[Download Version 1.00.01](https://drive.google.com/file/d/1cSlUoitjQbpnYlr0CnvdQi-WUwlNODep/view?usp=sharing)
+    Download      >>> https://mega.nz/file/0hUAwbSD
+    Decryption key>>> KFun7esQhW1EIJ6iom7YQ9YuQxpiuNtWFvxwB6Rejo8
+[Download Version 1.00.01](https://mega.nz/file/0hUAwbSD)
+
+### Kemono Friends Cellien May Cry Version 1.00.02 (ZIP)
+    Download      >>> https://mega.nz/file/oh00FSTT
+    Decryption key>>> BwwOmCd7fwlBYt6_U-F32nheaOG83ZE76KlGXACCc28
+[Download Version 1.00.02](https://mega.nz/file/oh00FSTT)
 
 ----------
 (C) 2018-2020 @SakamotoRyuu
