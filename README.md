@@ -56,12 +56,12 @@ Some graphics performance is required, but low performance graphics boards will 
 
 This is the latest version of the link that has been published on Twitter([@SakamotoRyuu](https://twitter.com/SakamotoRyuu)) and is being updated.
  
- * __Kemono Friends Cellien May Cry Version 1.00.01__
+ * __Kemono Friends Cellien May Cry Version 1.00.03__
     - [Windows 64-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1T1SQ6Xj-eTsIWXcCqMXFdlG1Kj9_aHbX/view)
     - [Windows 64-Bit (ZIP)](https://drive.google.com/file/d/1BnxnHsWHIH7DhMFHVbVbJ9iWGz3wSwa9/view)
     - [Update history (Japanese-language)](https://drive.google.com/file/d/1CJKBbEhNnORoolGUYehprFAWNYIpUiHu/view)
- * __Kemono Friends Cellien May Cry ver0.99__
-    - [Windows 32-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1cQbCAPnokE_MtEpEOkqkj6j2wYPo4CNu/view) A 32-bit version is also available, but update has been suspended in ver0.99.
+ * __Kemono Friends Cellien May Cry Version 1.00.02__
+    - [Windows 32-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1cQbCAPnokE_MtEpEOkqkj6j2wYPo4CNu/view) A 32-bit version is also available, but update has been suspended in Version 1.00.02.
 
  Index of Downloads
 ----------
@@ -187,6 +187,8 @@ __[Kemono Friends Cellien May Cry Version 0.99.20 (ZIP)](#kemono-friends-cellien
 __[Kemono Friends Cellien May Cry Version 1.00.01 (ZIP)](#kemono-friends-cellien-may-cry-version-10001-zip)__
 
 __[Kemono Friends Cellien May Cry Version 1.00.02 (ZIP)](#kemono-friends-cellien-may-cry-version-10002-zip)__
+
+__[Kemono Friends Cellien May Cry Version 1.00.03 (ZIP)](#kemono-friends-cellien-may-cry-version-10003-zip)__
 
  Downloads
 ----------
@@ -506,6 +508,11 @@ Download server: MEGA (mega.nz)
     Download      >>> https://mega.nz/file/oh00FSTT
     Decryption key>>> BwwOmCd7fwlBYt6_U-F32nheaOG83ZE76KlGXACCc28
 [Download Version 1.00.02](https://mega.nz/file/oh00FSTT)
+
+### Kemono Friends Cellien May Cry Version 1.00.03 (ZIP)
+    Download      >>> https://mega.nz/file/exQkmDyR
+    Decryption key>>> qhM2AdYrwEWQTbMMmVoEEUh-0bNn0sn4Q-R_VUuwH6A
+[Download Version 1.00.03](https://mega.nz/file/exQkmDyR)
 
 ----------
 (C) 2018-2020 @SakamotoRyuu
