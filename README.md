@@ -1,7 +1,7 @@
 # Kemono Friends Cellien May Cry Archive
 This is "Kemono Friends Cellien May Cry" old version archive.
 
-__Congratulations on the release of the completed version!!!!!__
+__Congratulations on the release of the completed version!__
 
 __The game executable is not uploaded to GitHub and is in a format that can be downloaded from an external file host.__
 
@@ -14,7 +14,7 @@ __For inquiries about the game, please contact the creator ([SakamotoRyuu](https
 ### Basic information
 The following environment is required to operate this software.
 
- * OS: __Windows 10,8.1,8,7 64-bit or 32-Bit__ (32-bit version is suspended for efficient updates)
+ * OS: __Windows 10,8.1,8,7 64-bit or 32-Bit__
  * CPU: __Reasonably fast CPU__ (I am using Intel Xeon E5-1620 v2)
  * HDD: __2GB or more free disc space__
  * RAM: __4GB or more memory__ (I am using 12GB DDR3-1200 RAM)
@@ -56,12 +56,25 @@ Some graphics performance is required, but low performance graphics boards will 
 
 This is the latest version of the link that has been published on Twitter([@SakamotoRyuu](https://twitter.com/SakamotoRyuu)) and is being updated.
  
- * __Kemono Friends Cellien May Cry Version 1.01.00__
-    - [Windows 64-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1T1SQ6Xj-eTsIWXcCqMXFdlG1Kj9_aHbX/view)
-    - [Windows 64-Bit (ZIP)](https://drive.google.com/file/d/1BnxnHsWHIH7DhMFHVbVbJ9iWGz3wSwa9/view)
+ * __Kemono Friends Cellien May Cry Version 1.3.2 (64-bit)_
+    - [Google Drive (EXE 7z self-extract)](https://drive.google.com/file/d/1T1SQ6Xj-eTsIWXcCqMXFdlG1Kj9_aHbX/view)
+    - [Google Drive (ZIP)](https://drive.google.com/file/d/1BnxnHsWHIH7DhMFHVbVbJ9iWGz3wSwa9/view)
     - [Update history (Japanese-language)](https://drive.google.com/file/d/1CJKBbEhNnORoolGUYehprFAWNYIpUiHu/view)
- * __Kemono Friends Cellien May Cry Version 1.00.02__
-    - [Windows 32-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1cQbCAPnokE_MtEpEOkqkj6j2wYPo4CNu/view) A 32-bit version is also available, but update has been suspended in Version 1.00.02.
+    - [Freem! (EXE 7z self-extract)](https://www.freem.ne.jp/win/game/25092)
+    - [Freegame Mugen (ZIP)](https://freegame-mugen.jp/action/game_9372.html)
+ * __Kemono Friends Cellien May Cry Version 1.3.2 (32-bit)__
+    - [Windows 32-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1cQbCAPnokE_MtEpEOkqkj6j2wYPo4CNu/view)
+
+ Archive version information
+----------
+
+Official latest version: __Version 1.3.2__
+
+Archive latest version: __Version 1.01.00__
+
+Archive oldest version: __ver0.93f3__
+
+Archive update status: __Suspended__
 
  Index of Downloads
 ----------
