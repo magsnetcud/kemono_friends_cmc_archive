@@ -11,6 +11,8 @@ __For inquiries about the game, please contact the creator ([SakamotoRyuu](https
 __Also, for information about this archive, please contact the author of this archive (magsnetcud) directly.__
 
 This archive has been officially licensed by [SakamotoRyuu](https://twitter.com/SakamotoRyuu).
+
+
  Required environment
 ----------
 
