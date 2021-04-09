@@ -56,7 +56,7 @@ Some graphics performance is required, but low performance graphics boards will 
 
 This is the latest version of the link that has been published on Twitter([@SakamotoRyuu](https://twitter.com/SakamotoRyuu)) and is being updated.
  
- * _Kemono Friends Cellien May Cry Version 1.3.2 (64-bit)_
+ * __Kemono Friends Cellien May Cry Version 1.3.2 (64-bit)__
     - [Google Drive (EXE 7z self-extract)](https://drive.google.com/file/d/1T1SQ6Xj-eTsIWXcCqMXFdlG1Kj9_aHbX/view)
     - [Google Drive (ZIP)](https://drive.google.com/file/d/1BnxnHsWHIH7DhMFHVbVbJ9iWGz3wSwa9/view)
     - [Update history (Japanese-language)](https://drive.google.com/file/d/1CJKBbEhNnORoolGUYehprFAWNYIpUiHu/view)
