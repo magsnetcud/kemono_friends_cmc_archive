@@ -8,6 +8,9 @@ __The game executable is not uploaded to GitHub and is in a format that can be d
 
 __For inquiries about the game, please contact the creator ([SakamotoRyuu](https://twitter.com/SakamotoRyuu) on Twitter) directly.__
 
+__Also, for information about this archive, please contact the author of this archive (magsnetcud) directly.__
+
+This archive has been officially licensed by [SakamotoRyuu](https://twitter.com/SakamotoRyuu).
  Required environment
 ----------
 
