@@ -400,10 +400,12 @@ Download server: MEGA (mega.nz)
 ### Kemono Friends Cellien May Cry ver0.99f10 (Pre-released) (ZIP)
     Download      >>> https://mega.nz/file/l942nRTD
     Decryption key>>> l3Wn44zcw-gT8NIIztT40sLdelyBrYW-u9IfxKn3EeQ
-     
-    ---This version is pre-released version.---
-    ---Specifically, it was uploaded to Google Drive, but it was not announced on Twitter.---
-    ---The only difference from the ver0.99f10 is the change of the "Guts" page in the tutorial.---
+This version is pre-released version.
+
+Specifically, it was uploaded to Google Drive, but it was not announced on Twitter.
+
+The only difference from the ver0.99f10 is the change of the "Guts" page in the tutorial.
+
 [Download ver0.99f10 pre-released](https://mega.nz/file/l942nRTD)
 
 ### Kemono Friends Cellien May Cry ver0.99f10 (ZIP)
@@ -479,12 +481,14 @@ Download server: MEGA (mega.nz)
 ### Kemono Friends Cellien May Cry Version 0.99.16 (Pre-released) (ZIP)
     Download      >>> https://mega.nz/file/YgExnQIR
     Decryption key>>> OcSzzG4oT683cfbeZLUAHLVhQ3iVK5JOG_OCJErulEg
-    
-    ---This version is pre-released version.---
-    ---Immediately after this version was uploaded, a mistake by the creator was discovered.---
-    ---The corrected version was re-uploaded with the same version number.---
-    ---This version is the file before it was re-uploaded.---
-    ---The only difference from the re-uploaded version is the addition of a Chinese translator to the ReadMe file.---
+This version is pre-released version.
+
+Immediately after this version was uploaded, a mistake by the creator was discovered. (The corrected version was re-uploaded with the same version number)
+
+This version is the file before it was re-uploaded.
+
+The only difference from the re-uploaded version is the addition of a Chinese translator to the ReadMe file.
+
 [Download Version 0.99.16 pre-released](https://mega.nz/file/YgExnQIR)
 
 ### Kemono Friends Cellien May Cry Version 0.99.16 (ZIP)
