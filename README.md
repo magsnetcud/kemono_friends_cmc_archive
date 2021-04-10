@@ -210,6 +210,8 @@ __[Kemono Friends Cellien May Cry Version 1.00.03 (ZIP)](#kemono-friends-cellien
 
 __[Kemono Friends Cellien May Cry Version 1.01.00 (ZIP)](#kemono-friends-cellien-may-cry-version-10100-zip)__
 
+__[Kemono Friends Cellien May Cry Version 1.3.2 (ZIP)](#kemono-friends-cellien-may-cry-version-132-zip)__
+
  Downloads
 ----------
 
