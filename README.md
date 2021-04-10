@@ -541,5 +541,10 @@ The only difference from the re-uploaded version is the addition of a Chinese tr
     Decryption key>>> DKYyNIq94H9SIJ88STLgtTjyUJ5dj4ZSd4yl6AAXN8k
 [Download Version 1.01.00](https://mega.nz/file/K8piCZ6A)
 
+### Kemono Friends Cellien May Cry Version 1.3.2 (ZIP)
+    Download      >>> https://mega.nz/file/f94mEQRS
+    Decryption key>>> yRmFEPyEiB8ln-uRgfAdiUrpqhluW-6do5spTKBNMwE
+[Download Version 1.3.2](https://mega.nz/file/f94mEQRS)
+
 ----------
 (C) 2018-2020 @SakamotoRyuu
