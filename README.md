@@ -61,25 +61,25 @@ Some graphics performance is required, but low performance graphics boards will 
 
 This is the latest version of the link that has been published on Twitter([@SakamotoRyuu](https://twitter.com/SakamotoRyuu)) and is being updated.
  
- * __Kemono Friends Cellien May Cry Version 1.3.2 (64-bit)__
+ * __Kemono Friends Cellien May Cry Version 1.3.3 (64-bit)__
     - [Google Drive (EXE 7z self-extract)](https://drive.google.com/file/d/1T1SQ6Xj-eTsIWXcCqMXFdlG1Kj9_aHbX/view)
     - [Google Drive (ZIP)](https://drive.google.com/file/d/1BnxnHsWHIH7DhMFHVbVbJ9iWGz3wSwa9/view)
     - [Update history (Japanese-language)](https://drive.google.com/file/d/1CJKBbEhNnORoolGUYehprFAWNYIpUiHu/view)
     - [Freem! (EXE 7z self-extract)](https://www.freem.ne.jp/win/game/25092)
     - [Freegame Mugen (ZIP)](https://freegame-mugen.jp/action/game_9372.html)
- * __Kemono Friends Cellien May Cry Version 1.3.2 (32-bit)__
+ * __Kemono Friends Cellien May Cry Version 1.3.3 (32-bit)__
     - [Windows 32-Bit (EXE 7z self-extract)](https://drive.google.com/file/d/1cQbCAPnokE_MtEpEOkqkj6j2wYPo4CNu/view)
 
  Archive version information
 ----------
 
-Official latest version: __Version 1.3.2__
+Official latest version: __Version 1.3.3__
 
-Archive latest version: __Version 1.01.00__
+Archive latest version: __Version 1.3.3__
 
 Archive oldest version: __ver0.93f3__
 
-Archive update status: __Suspended__
+Archive update status: __Updating__
 
  Index of Downloads
 ----------
@@ -211,6 +211,8 @@ __[Kemono Friends Cellien May Cry Version 1.00.03 (ZIP)](#kemono-friends-cellien
 __[Kemono Friends Cellien May Cry Version 1.01.00 (ZIP)](#kemono-friends-cellien-may-cry-version-10100-zip)__
 
 __[Kemono Friends Cellien May Cry Version 1.3.2 (ZIP)](#kemono-friends-cellien-may-cry-version-132-zip)__
+
+__[Kemono Friends Cellien May Cry Version 1.3.3 (ZIP)](#kemono-friends-cellien-may-cry-version-133-zip)__
 
  Downloads
 ----------
@@ -610,6 +612,12 @@ The only difference from the re-uploaded version is the addition of a Chinese tr
     Decryption key>>> yRmFEPyEiB8ln-uRgfAdiUrpqhluW-6do5spTKBNMwE
 
 [Download Version 1.3.2](https://mega.nz/file/f94mEQRS)
+
+### Kemono Friends Cellien May Cry Version 1.3.3 (ZIP)
+    Download      >>> https://mega.nz/file/j05EjKyB
+    Decryption key>>> OrUSi_ZhnzJVx5NGA1MU8GfvNGl-qiovPDTRTk6gBWc
+
+[Download Version 1.3.3](https://mega.nz/file/j05EjKyB)
 
 ----------
 (C) 2018-2020 @SakamotoRyuu
