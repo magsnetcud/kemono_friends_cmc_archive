@@ -79,7 +79,7 @@ Archive latest version: __Version 1.3.3__
 
 Archive oldest version: __ver0.93f3__
 
-Archive update status: __Updating__
+Archive update status: __Suspended__
 
  Index of Downloads
 ----------
